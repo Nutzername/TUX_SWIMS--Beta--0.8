@@ -1,0 +1,77 @@
+TUX_SWIMS README:
+
+_______________________TUX SWIMS_______________________
+"TUX_SWIMS" is a little 2D-game about TUX (who swims from Antarctic to Africa) and see a lot of things from the big "Software-World". 
+
+_______________________HOW TO RUN_______________________
+"TUX_SWIMS" comes with no application to install and it can not run by it self.
+You need "Python3", "IDLE 3" and "Pygame" to run and edit "TUX_SWIMS".
+Install "Python3", "IDLE 3" and "Pygame" with:
+|apt-get install python3|
+|apt-get install python-pygame|
+|apt-get install IDLE3|
+|apt-get update|
+
+
+_______________________SOFTWARE & HARDWARE_______________________
+HARDWARE:
+You need a "normal" PC-Setup, a Monitor with min 1920px × 1080px,
+a CPU comparable to an Intel Core i3 and 4GiB RAM.
+
+The developer used:
+8 GiB RAM
+Intel Core i5-3570 CPU (4 × 3.40GHz) 
+Nvidia GeForce GTX 760 GPU
+
+SOFTWARE:
+You need a GNU/Linux Desktop-OS comparable to Debian with a GUI (Gnome, KDE, LXDE, Unity, Xfce...) that is able to run Python 3 and IDLE 3.
+
+The developer used:
+Debian GNU/Linux 8 (jessie) 64-Bit with Gnome 3
+
+_______________________DEVELOPER_______________________
+Adam Schrey inspired by GNU/Linux :-)
+
+_______________________LICENSE & COPYRIGHT_________________________
+Copyright 2016 Adam Schrey
+
+English:
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+Deutsch (German):
+
+    Dieses Programm ist Freie Software: Sie können es unter den Bedingungen
+    der GNU General Public License, wie von der Free Software Foundation,
+    Version 3 der Lizenz oder (nach Ihrer Wahl) jeder neueren
+    veröffentlichten Version, weiterverbreiten und/oder modifizieren.
+
+    Dieses Programm wird in der Hoffnung, dass es nützlich sein wird, aber
+    OHNE JEDE GEWÄHRLEISTUNG, bereitgestellt; sogar ohne die implizite
+    Gewährleistung der MARKTFÄHIGKEIT oder EIGNUNG FÜR EINEN BESTIMMTEN ZWECK.
+    Siehe die GNU General Public License für weitere Details.
+
+    Sie sollten eine Kopie der GNU General Public License zusammen mit diesem
+    Programm erhalten haben. Wenn nicht, siehe <http://www.gnu.org/licenses/>.
+
+_______________________PICTURES_________________________
+The used and edited pictures (like Tux, Python Logo or The GIMP icon) are free and most of them are copied from |commons.wikimedia.org|.
+"The copyright holder of the tux-pictue, Larry Ewing, allows anyone to use it for any purpose, provided that the copyright holder is properly attributed. Redistribution, derivative work, commercial use, and all other use is permitted.
+Attribution: Larry Ewing"
+
+You can use the pictures who are edited by me (Adam Schrey) under the terms of the GNU General Public License (see LICENSE & COPYRIGHT). 
+ 
+_______________________MUSIC________________________
+The used music is free.
+At |https://www.youtube.com/watch?v=Ht2puekiPDU| and |http://www.gnu.org/music/free-software-song.en.html| you can find the music/sounds.

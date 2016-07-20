@@ -1,0 +1,8 @@
+_______________________HOW TO RUN_______________________
+"TUX_SWIMS" comes with no application to install and it can not run by it self.
+You need "Python3", "IDLE 3" and "Pygame" to run and edit "TUX_SWIMS".
+Install "Python3", "IDLE 3" and "Pygame" with:
+|apt-get install python3|
+|apt-get install python-pygame|
+|apt-get install IDLE3|
+|apt-get update|
